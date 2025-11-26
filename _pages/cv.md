@@ -21,7 +21,7 @@ redirect_from:
 
 Education
 ======
-<div class="resume-section">Ph.D. candidate in Epidemiology and Health Statistics</div><i>(Expected)</i>  
+<div class="resume-section">Ph.D. candidate in Epidemiology and Health Statistics</div>
 <i>Sep 2024 – Jul 2028</i>  
 **Guangzhou Medical University**, Guangzhou, China  
 * Affiliation: Department of Epidemiology and Health Statistics, School of Public Health
