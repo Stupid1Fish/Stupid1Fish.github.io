@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+# 字体参数
 <style>
 .resume-section {
     font-family: Arial, sans-serif;
@@ -17,6 +17,14 @@ redirect_from:
   font-weight: bold;
 }
 </style>  
+
+# 图标参数
+<style>
+.icon {
+  height: 60px;  /* 设置统一高度 */
+  width: auto;   /* 宽度自动，保持比例 */
+}
+</style>
 
 Education
 ======
@@ -44,22 +52,6 @@ Work experience
 
 Skills
 ======
-<div class="resume-section">Statistics & Programming</div> 
-* Python: Proficient in using scikit-learn, pandas, and NumPy for machine learning and data analysis
-* R: Experienced with Bioconductor packages for genomic data analysis (e.g., DESeq2, limma)
-* Linux/Bash: Skilled in high-performance computing and pipeline development
-
-<div class="resume-section">Domain Knowledge</div>
-* High-Throughput Sequencing (WGS, RNA-seq) Data Analysis & Interpretation
-* Statistical Genetics & Genetic Epidemiology
-
-<style>
-.icon {
-  height: 60px;  /* 设置统一高度 */
-  width: auto;   /* 宽度自动，保持比例 */
-}
-</style>
-
 <tr><td valign="top" width="55%">
 <div align="left"> 
 <a href="https://www.r-project.org/" target="_blank">
@@ -76,7 +68,20 @@ Skills
 <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img class="icon" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 </div>
-</td></tr>
+</td></tr>  
+  
+<div class="resume-section">Statistics & Programming</div> 
+* Python: Proficient in using scikit-learn, pandas, and NumPy for machine learning and data analysis
+* R: Experienced with Bioconductor packages for genomic data analysis (e.g., DESeq2, limma)
+* Linux/Bash: Skilled in high-performance computing and pipeline development
+
+<div class="resume-section">Domain Knowledge</div>
+* High-Throughput Sequencing (WGS, RNA-seq) Data Analysis & Interpretation
+* Statistical Genetics & Genetic Epidemiology
+
+
+
+
 
 
 Publications
