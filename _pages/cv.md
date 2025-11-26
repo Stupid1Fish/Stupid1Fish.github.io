@@ -12,37 +12,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D. candidate (2024.09 - 2028.07)
-* Guangzhou Medical University, Guangzhou, China
-Affiliation: Department of Epidemiology and Health Statistics, School of Public Health
-Advisor: Prof. Tangchun Wu
-Focus: Integrative multi-omics and multi-modal data analysis for elucidating the mechanisms of lung diseases.
+**Ph.D. candidate (2024.09 - 2028.07)**
+**Guangzhou Medical University, Guangzhou, China**
+* Affiliation: Department of Epidemiology and Health Statistics, School of Public Health
+* Focus: Integrative multi-omics and multi-modal data analysis for elucidating the mechanisms of lung diseases
+* Advisor: Prof. Tangchun Wu
 
-* M.S. candidate (2018.09 - 2021.12)
-* Jinan University, Guangzhou, China
-Affiliation: Department of Biology, School of Public Health
-Advisor: Prof. Yi Zhou
-Focus: Application of geometric morphometrics in biomedical research.
-
+**M.S. candidate (2018.09 - 2021.12)**
+**Jinan University, Guangzhou, China**
+* Affiliation: Department of Biology, School of Public Health
+* Focus: Application of geometric morphometrics in biomedical research
+* Advisor: Prof. Yi Zhou
 
 Work experience
 ======
-* Technical support engineer (2022.04 - 2023.12)
-*  Guangzhou Huayin Co., Ltd., Guangzhou, China
-Affiliation: Department of High-Throughput Sequencing, Guangzhou Huayin Medical Laboratory Center
-Focus: Provided specialized technical support for high-throughput sequencing (HTS) applications in basic research.
+**Technical support engineer (2022.04 - 2023.12)**
+**Guangzhou Huayin Co., Ltd., Guangzhou, China**
+* Affiliation: Department of High-Throughput Sequencing, Guangzhou Huayin Medical Laboratory Center
+* Focus: Provided specialized technical support for high-throughput sequencing (HTS) applications in basic research
 
 
 Skills
 ======
-* Statistics & Programming
-Python: Proficient in using scikit-learn, pandas, and NumPy for machine learning and data analysis.
-R: Experienced with Bioconductor packages for genomic data analysis (e.g., DESeq2, limma).
-Linux/Bash: Skilled in high-performance computing and pipeline development.
+**Statistics & Programming**
+* Python: Proficient in using scikit-learn, pandas, and NumPy for machine learning and data analysis.
+* R: Experienced with Bioconductor packages for genomic data analysis (e.g., DESeq2, limma).
+* Linux/Bash: Skilled in high-performance computing and pipeline development.
 
-* Domain Knowledge
-High-Throughput Sequencing (WGS, RNA-seq) Data Analysis & Interpretation
-Statistical Genetics & Genetic Epidemiology
+**Domain Knowledge**
+* High-Throughput Sequencing (WGS, RNA-seq) Data Analysis & Interpretation
+* Statistical Genetics & Genetic Epidemiology
 
 <style>
     .icon {
