@@ -14,7 +14,6 @@ redirect_from:
 .resume-section {
     font-family: Arial, sans-serif;
     font-size: 20px;
-    line-height: 1.6;
   font-weight: bold;
 }
 </style>  
@@ -56,7 +55,7 @@ Skills
 
 <style>
 .icon {
-  height: 90px;  /* 设置统一高度 */
+  height: 60px;  /* 设置统一高度 */
   width: auto;   /* 宽度自动，保持比例 */
 }
 </style>
