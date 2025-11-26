@@ -12,8 +12,8 @@ redirect_from:
 # 字体参数
 <style>
 .resume-section {
-    font-family: Arial, sans-serif;
-    font-size: 20px;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
   font-weight: bold;
 }
 </style>  
@@ -28,14 +28,14 @@ redirect_from:
 
 Education
 ======
-<div class="resume-section">Ph.D. candidate in Epidemiology and Health Statistics</div>
+<span class="resume-section">Ph.D. candidate in Epidemiology and Health Statistics</span>  
 <i>Sep 2024 – Jul 2028</i>  
 **Guangzhou Medical University**, Guangzhou, China  
 * Affiliation: Department of Epidemiology and Health Statistics, School of Public Health
 * Focus: Integrative multi-omics and multi-modal data analysis for elucidating the mechanisms of lung diseases
 * Advisor: Prof. Tangchun Wu
 
-<div class="resume-section">M.S. in Biostatistics</div>  
+<span class="resume-section">M.S. in Biostatistics</span>  
 <i>Sep 2018 – Dec 2021</i>  
 **Jinan University**, Guangzhou, China  
 * Affiliation: Department of Biostatistics, School of Public Health  
@@ -44,7 +44,7 @@ Education
 
 Work experience
 ======
-<div class="resume-section">Technical support engineer</div>  
+<span class="resume-section">Technical support engineer</span>  
 <i>Apr 2022 – Dec 2023</i>  
 **Guangzhou Huayin Co., Ltd.**, Guangzhou, China
 * Affiliation: Department of High-Throughput Sequencing, Guangzhou Huayin Medical Laboratory Center
@@ -53,7 +53,7 @@ Work experience
 Skills
 ======
 <tr><td valign="top" width="55%">
-<div align="left"> 
+<span align="left"> 
 <a href="https://www.r-project.org/" target="_blank">
   <img class="icon" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50px" /></a>
 <a href="https://www.python.org/" target="_blank">
@@ -67,15 +67,15 @@ Skills
   <img class="icon" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img class="icon" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-</div>
+</span>
 </td></tr>  
   
-<div class="resume-section">Statistics & Programming</div> 
+<span class="resume-section">Statistics & Programming</span> 
 * Python: Proficient in using scikit-learn, pandas, and NumPy for machine learning and data analysis
 * R: Experienced with Bioconductor packages for genomic data analysis (e.g., DESeq2, limma)
 * Linux/Bash: Skilled in high-performance computing and pipeline development
 
-<div class="resume-section">Domain Knowledge</div>
+<span class="resume-section">Domain Knowledge</span>
 * High-Throughput Sequencing (WGS, RNA-seq) Data Analysis & Interpretation
 * Statistical Genetics & Genetic Epidemiology
 
