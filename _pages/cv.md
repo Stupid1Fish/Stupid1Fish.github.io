@@ -9,27 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* Ph.D in bioinformatics, x University, 2028 (expected)
-* M.S. in Genetics, Jinan University, 2021
+* Ph.D. candidate (2024.09 - 2028.07)
+* Guangzhou Medical University, Guangzhou, China
+Affiliation: Department of Epidemiology and Health Statistics, School of Public Health
+Advisor: Prof. Tangchun Wu
+Focus: Integrative multi-omics and multi-modal data analysis for elucidating the mechanisms of lung diseases.
+
+* M.S. candidate (2018.09 - 2021.12)
+* Jinan University, Guangzhou, China
+Affiliation: Department of Biology, School of Public Health
+Advisor: Prof. Yi Zhou
+Focus: Application of geometric morphometrics in biomedical research.
+
 
 Work experience
 ======
-* High-Throughput Sequencing Technology Application Engineer, Guangzhou Huayin Medical Laboratory Center Co., Ltd., Spring 2022 - Winter 2023
-  
+* Technical support engineer (2022.04 - 2023.12)
+*  Guangzhou Huayin Co., Ltd., Guangzhou, China
+Affiliation: Department of High-Throughput Sequencing, Guangzhou Huayin Medical Laboratory Center
+Focus: Provided specialized technical support for high-throughput sequencing (HTS) applications in basic research.
+
+
 Skills
 ======
-* Statics and programming
-  * Python3 - machine learning techniques for feature engineering and model training
-  * R - Bioconductor
-  * Linux - Bash
-* High-throughput sequencing technology
-* Teamwork
-  * Actively participate in academic and technical discussions
-  * Actively uphold team honor and collaborate to fulfill project tasks in assigned roles
-  * Follow standard operating procedures in work
+* Statistics & Programming
+Python: Proficient in using scikit-learn, pandas, and NumPy for machine learning and data analysis.
+R: Experienced with Bioconductor packages for genomic data analysis (e.g., DESeq2, limma).
+Linux/Bash: Skilled in high-performance computing and pipeline development.
 
+* Domain Knowledge
+High-Throughput Sequencing (WGS, RNA-seq) Data Analysis & Interpretation
+Statistical Genetics & Genetic Epidemiology
 
 <style>
     .icon {
@@ -57,12 +70,14 @@ Skills
 </div>
 </td></tr>
 
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
 Projects
 ======
   <ul>{% for post in site.projects reversed %}
