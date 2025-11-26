@@ -12,13 +12,15 @@ redirect_from:
 
 Education
 ======
-**Ph.D. candidate in Epidemiology and Health Statistics** (2024.09 - 2028.07)  
+**Ph.D. candidate in Epidemiology and Health Statistics** <i>(Expected)</i>
+<i>Sep 2024 – Jul 2028</i>
 **Guangzhou Medical University**, Guangzhou, China  
 * Affiliation: Department of Epidemiology and Health Statistics, School of Public Health
 * Focus: Integrative multi-omics and multi-modal data analysis for elucidating the mechanisms of lung diseases
 * Advisor: Prof. Tangchun Wu
 
-**M.S. in Biostatistics** (2018.09 - 2021.12)  
+**M.S. in Biostatistics** 
+<i>Sep 2018 – Dec 2021</i>
 **Jinan University**, Guangzhou, China  
 * Affiliation: Department of Biostatistics, School of Public Health  
 * Focus: Application of geometric morphometrics in biomedical research
@@ -26,18 +28,18 @@ Education
 
 Work experience
 ======
-**Technical support engineer** (2022.04 - 2023.12) 
-**Guangzhou Huayin Co., Ltd., Guangzhou, China**
+**Technical support engineer** 
+<i>Apr 2022 – Dec 2023</i>
+**Guangzhou Huayin Co., Ltd.**, Guangzhou, China
 * Affiliation: Department of High-Throughput Sequencing, Guangzhou Huayin Medical Laboratory Center
 * Focus: Provided specialized technical support for high-throughput sequencing (HTS) applications in basic research
-
 
 Skills
 ======
 **Statistics & Programming** 
-* Python: Proficient in using scikit-learn, pandas, and NumPy for machine learning and data analysis.
-* R: Experienced with Bioconductor packages for genomic data analysis (e.g., DESeq2, limma).
-* Linux/Bash: Skilled in high-performance computing and pipeline development.
+* Python: Proficient in using scikit-learn, pandas, and NumPy for machine learning and data analysis
+* R: Experienced with Bioconductor packages for genomic data analysis (e.g., DESeq2, limma)
+* Linux/Bash: Skilled in high-performance computing and pipeline development
 
 **Domain Knowledge**
 * High-Throughput Sequencing (WGS, RNA-seq) Data Analysis & Interpretation
@@ -45,7 +47,7 @@ Skills
 
 <style>
 .icon-large {
-  height: 80px;  /* 设置统一高度 */
+  height: 150px;  /* 设置统一高度 */
   width: auto;   /* 宽度自动，保持比例 */
 }
 </style>
