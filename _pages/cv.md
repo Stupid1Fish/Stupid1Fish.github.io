@@ -12,13 +12,13 @@ redirect_from:
 
 Education
 ======
-**Ph.D. candidate (2024.09 - 2028.07)**
+**Ph.D. candidate (2024.09 - 2028.07)** \n
 **Guangzhou Medical University, Guangzhou, China**
 * Affiliation: Department of Epidemiology and Health Statistics, School of Public Health
 * Focus: Integrative multi-omics and multi-modal data analysis for elucidating the mechanisms of lung diseases
 * Advisor: Prof. Tangchun Wu
 
-**M.S. candidate (2018.09 - 2021.12)**
+**M.S. candidate (2018.09 - 2021.12)** \n
 **Jinan University, Guangzhou, China**
 * Affiliation: Department of Biology, School of Public Health
 * Focus: Application of geometric morphometrics in biomedical research
@@ -26,7 +26,7 @@ Education
 
 Work experience
 ======
-**Technical support engineer (2022.04 - 2023.12)**
+**Technical support engineer (2022.04 - 2023.12)** \n
 **Guangzhou Huayin Co., Ltd., Guangzhou, China**
 * Affiliation: Department of High-Throughput Sequencing, Guangzhou Huayin Medical Laboratory Center
 * Focus: Provided specialized technical support for high-throughput sequencing (HTS) applications in basic research
@@ -34,7 +34,7 @@ Work experience
 
 Skills
 ======
-**Statistics & Programming**
+**Statistics & Programming** \n
 * Python: Proficient in using scikit-learn, pandas, and NumPy for machine learning and data analysis.
 * R: Experienced with Bioconductor packages for genomic data analysis (e.g., DESeq2, limma).
 * Linux/Bash: Skilled in high-performance computing and pipeline development.
