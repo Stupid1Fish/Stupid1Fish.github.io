@@ -43,6 +43,12 @@ Skills
 * High-Throughput Sequencing (WGS, RNA-seq) Data Analysis & Interpretation
 * Statistical Genetics & Genetic Epidemiology
 
+<style>
+.icon-large {
+  height: 80px;  /* 设置统一高度 */
+  width: auto;   /* 宽度自动，保持比例 */
+}
+</style>
 
 <tr><td valign="top" width="55%">
 <div align="left"> 
