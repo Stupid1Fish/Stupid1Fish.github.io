@@ -10,17 +10,26 @@ redirect_from:
 {% include base_path %}
 
 
+<style>
+.resume-section {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1.6;
+  font-weight: bold;
+}
+</style>  
+
 Education
 ======
-**Ph.D. candidate in Epidemiology and Health Statistics** <i>(Expected)</i>
-<i>Sep 2024 – Jul 2028</i>
+<div class="resume-section">Ph.D. candidate in Epidemiology and Health Statistics</div> <i>(Expected)</i>  
+<i>Sep 2024 – Jul 2028</i>  
 **Guangzhou Medical University**, Guangzhou, China  
 * Affiliation: Department of Epidemiology and Health Statistics, School of Public Health
 * Focus: Integrative multi-omics and multi-modal data analysis for elucidating the mechanisms of lung diseases
 * Advisor: Prof. Tangchun Wu
 
-**M.S. in Biostatistics** 
-<i>Sep 2018 – Dec 2021</i>
+<div class="resume-section">M.S. in Biostatistics</div>
+<i>Sep 2018 – Dec 2021</i>  
 **Jinan University**, Guangzhou, China  
 * Affiliation: Department of Biostatistics, School of Public Health  
 * Focus: Application of geometric morphometrics in biomedical research
@@ -28,8 +37,9 @@ Education
 
 Work experience
 ======
-**Technical support engineer** 
-<i>Apr 2022 – Dec 2023</i>
+<span style="font-family: 'Times New Roman', Times, serif;">Times New Roman - 传统正式</span>  
+**Technical support engineer**  
+<i>Apr 2022 – Dec 2023</i>  
 **Guangzhou Huayin Co., Ltd.**, Guangzhou, China
 * Affiliation: Department of High-Throughput Sequencing, Guangzhou Huayin Medical Laboratory Center
 * Focus: Provided specialized technical support for high-throughput sequencing (HTS) applications in basic research
