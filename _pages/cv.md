@@ -31,14 +31,14 @@ Education
 <span class="resume-section">Ph.D. candidate in Epidemiology and Health Statistics</span>  
 **Guangzhou Medical University**, Guangzhou, China  
 <i>Sep 2024 – Jul 2028</i>  
-* Affiliation: Department of Epidemiology and Health Statistics, School of Public Health
+* Affiliation: Department of Epidemiology and Health Statistics, College of Public Health
 * Focus: Integrative multi-omics and multi-modal data analysis for elucidating the mechanisms of lung diseases
 * Advisor: Prof. Tangchun Wu
 
 <span class="resume-section">M.S. in Biostatistics</span>  
 **Jinan University**, Guangzhou, China  
 <i>Sep 2018 – Dec 2021</i>  
-* Affiliation: Department of Biostatistics, School of Public Health  
+* Affiliation: Department of Biology, College of Biological Science and Technology
 * Focus: Application of geometric morphometrics in biomedical research
 * Advisor: Prof. Yi Zhou
 
