@@ -34,7 +34,7 @@ Work experience
 
 Skills
 ======
-**Statistics & Programming** \n
+**Statistics & Programming** 
 * Python: Proficient in using scikit-learn, pandas, and NumPy for machine learning and data analysis.
 * R: Experienced with Bioconductor packages for genomic data analysis (e.g., DESeq2, limma).
 * Linux/Bash: Skilled in high-performance computing and pipeline development.
@@ -43,13 +43,6 @@ Skills
 * High-Throughput Sequencing (WGS, RNA-seq) Data Analysis & Interpretation
 * Statistical Genetics & Genetic Epidemiology
 
-<style>
-    .icon {
-      width: 58px;
-      height: 58px;
-      margin: 10px;
-    }
-</style>
 
 <tr><td valign="top" width="55%">
 <div align="left"> 
